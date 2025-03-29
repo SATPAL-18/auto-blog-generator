@@ -2,5 +2,4 @@ streamlit
 google-generativeai
 requests
 python-dotenv
-sqlite3  # Usually comes with Python
 python-dateutil
