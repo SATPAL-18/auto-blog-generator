@@ -10,7 +10,7 @@ import streamlit as st
 from datetime import datetime
 from pathlib import Path
 import google.generativeai as genai
-
+#this is my code
 # Configure paths
 BLOG_DIR = "blogs"
 os.makedirs(BLOG_DIR, exist_ok=True)
